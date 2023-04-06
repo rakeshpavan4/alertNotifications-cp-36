@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.container {
+  height: 100px;
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 1px 1px;
+  margin-bottom: 10px;
+}
